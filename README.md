@@ -3,7 +3,7 @@
 A Retrieval-Augmented Generation (RAG) chatbot that answers questions about the Indian Constitution using LangChain, OpenAI, and Streamlit.
 
 ## 🌟 Features
-
+"""
 - Interactive Q&A about the Indian Constitution
 - Real-time streaming responses
 - Source citations for answers
