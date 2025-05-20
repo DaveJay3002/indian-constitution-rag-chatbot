@@ -1,9 +1,8 @@
 streamlit
-langchain==0.3.21
-langchain-core==0.3.47
-langchain-community==0.3.24
-langchain-openai==0.3.9
-langchain-text-splitters==0.3.7
+langchain>=0.3.59
+langchain-community>=0.3.24
+langchain-openai
+langchain-text-splitters
 openai==1.68.0
 faiss-cpu
 python-dotenv==1.0.1
